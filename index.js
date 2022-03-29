@@ -1,1 +1,1 @@
-console.log("hey CI/CD");
+console.log("hey CI/CD inline");
