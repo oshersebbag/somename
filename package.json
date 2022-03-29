@@ -1,0 +1,25 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo all test good",
+    "lint": "./node_modules/.bin/eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshersebbag/somename.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshersebbag/somename/issues"
+  },
+  "homepage": "https://github.com/oshersebbag/somename#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "mocha": "^9.2.2"
+  }
+}
